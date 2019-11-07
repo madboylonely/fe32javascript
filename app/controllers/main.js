@@ -3,6 +3,9 @@ var nguoiDungService = new NguoiDungService();
 
 getListUser();
 
+function themTestGit() {
+    console.log("Them Test Git")
+}
 
 getEle('btnThemNguoiDung').addEventListener("click", function() {
     var title = "Thêm Người Dùng";
