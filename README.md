@@ -22,4 +22,16 @@ nhap username voi email vao nho dat trong dau nha ""
 	git commit -m <ghi chu de biet code gi>
 	
 * Day code len server
-	git put origin <ten branch	>
+	git put origin <ten branch>
+	
+* Cap nhat code
+	git pull
+	
+* Giai quyet xung dot
+	git merge <ten nhanh>
+
+p/s: tron code tu nhanh co then <ten nhanh> vao nhanh ma minh dang dung
+
+* Kiem tra branch
+	git branch
+	
