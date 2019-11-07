@@ -8,7 +8,7 @@ Front End - Javascript
 nhap username voi email vao nho dat trong dau nha ""
 
 * Keo sourch ve may tinh
-	git clone "<link git cua repository tren github>"
+	git clone <link git cua repository tren github>
 
 * Kiem tra trang thai
 	git status
@@ -22,4 +22,4 @@ nhap username voi email vao nho dat trong dau nha ""
 	git commit -m <ghi chu de biet code gi>
 	
 * Day code len server
-	git put origin <ten branch>
+	git put origin <ten branch	>
