@@ -35,3 +35,6 @@ p/s: tron code tu nhanh co then <ten nhanh> vao nhanh ma minh dang dung
 * Kiem tra branch
 	git branch
 	
+* .gitignore: chan nhung gi khai bao ben trong no khong cho push len server	
+	
+package management
