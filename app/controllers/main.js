@@ -7,6 +7,10 @@ function themTestGit() {
     console.log("Them Test Git")
 }
 
+function themTaoLao() {
+    console.log("Tao Lao")
+}
+
 getEle('btnThemNguoiDung').addEventListener("click", function() {
     var title = "Thêm Người Dùng";
     var footer = `
