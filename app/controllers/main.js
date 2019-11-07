@@ -4,7 +4,11 @@ var nguoiDungService = new NguoiDungService();
 getListUser();
 
 function themTestGit() {
-    console.log("Them Test Git")
+    console.log("Them Test Git");
+}
+
+function themTaoLao() {
+    console.log("new newn new");
 }
 
 getEle('btnThemNguoiDung').addEventListener("click", function() {
